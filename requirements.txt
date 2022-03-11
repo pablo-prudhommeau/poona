@@ -1,0 +1,4 @@
+coloredlogs
+python-telegram-bot
+paramiko
+requests
